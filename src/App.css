@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 250px;
+    height: 370px;
+    background-color: #CCCCFF;
+    margin-top: 200px;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.inputdata {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.inputsearch {
+    padding: 7px;
+    border-radius: 20px 20px;
+}
+
+.info {
+    margin-top: 90px;
+    margin-left: 50px;
+}
+
+.temp {
+    font-size: 20px;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.temp_max {
+    font-size: 13px;
+}
